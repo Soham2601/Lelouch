@@ -1,2 +1,2 @@
 # Lelouch
-Mechanical Engineeri
+Mechanical Engineer
